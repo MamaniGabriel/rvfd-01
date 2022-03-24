@@ -2,9 +2,8 @@
 # Mycropython ADC
 
 
-Alumno: Nombre y apellido
-
-Curso: Curso
+Alumno: Mamani Rojas Jancel Gabriel
+Curso: 7mo 1ra Avionica Comisión A
 
 Materia: Representacion Visual y Frontal de Datos
 
